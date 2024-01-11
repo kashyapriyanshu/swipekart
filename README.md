@@ -9,7 +9,8 @@ npm init vite@latest react-shopping-cart --template react
 
 # create react app
 npx create-react-app react-shopping-cart
-Once it is finished, run:
+
+# Once it is finished, run:
 
 cd react-shopping-cart
 npm install
