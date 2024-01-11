@@ -10,9 +10,13 @@ npm init vite@latest react-shopping-cart --template react
 # create react app
 npx create-react-app react-shopping-cart
 # Once it is finished, run:
+# 1.
 cd react-shopping-cart
+# 2.
 npm install
+# 3.
 npm install react-router-dom@6
+# 4.
 npm install --save styled-components
 # For running the react app you can use the command
 npm run dev
